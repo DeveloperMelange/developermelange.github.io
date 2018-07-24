@@ -5,9 +5,9 @@ layout: default
 {% for post in site.posts %} 
 <div class="post row">
     <div class="col-xs-12 col-sm-3"><div class="image" style="background-image: url('{{ post.image }}');"></div></div>
-    <div class="content col-xs-12 col-sm-9">
-        <div class="metainfo center-xs start-sm">{{ post.date | date: "%B %e, %Y" }} · EPISODE {{ forloop.index }}</div>
-        <h2 class="center-xs start-sm">{{ forloop.index }}: {{post.title}}</h2>
+    <div class="content col-xs-12 col-sm-9 center-xs start-sm">
+        <div class="metainfo">{{ post.date | date: "%B %e, %Y" }} · EPISODE {{ forloop.index }}</div>
+        <h2>{{ forloop.index }}: {{post.title}}</h2>
         <div class="intro">{{post.intro}}</div>
         </div>
 </div>
