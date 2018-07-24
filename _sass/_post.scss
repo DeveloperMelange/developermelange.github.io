@@ -1,0 +1,28 @@
+.post {
+  display: flex;
+  .image {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 1rem;
+    flex-grow: 0;
+    flex-shrink: 0;
+    background-size: cover;
+    @include imageborder();
+  }
+  .content {
+    .metainfo {
+      color: grey;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+    }
+    h2 {
+      margin: 0.3rem 0;
+      font-size: 1.3rem;
+    }
+    .intro {
+      font-size: 0.8rem;
+      line-height: 1.5rem;
+    }
+  }
+}

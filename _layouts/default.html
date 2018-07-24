@@ -5,13 +5,42 @@
 
 <body>
 
-    <div class="head">
+    <header>
+        <section>
+            <div class="logo"></div>
+            <div class="intro">{{site.description}}</div>
+            <div class="badges">
+                <a target="_blank" href="https://twitter.com/devmelange" class="twitter">
+                    <i class="fa fa-twitter"></i> follow @devmelange
+                </a>
+            </div>
+        </section>
+    </header>
 
-    </div>
     <main class="main" aria-label="Content">
-        {{ content }}
+        <section>
+            {{ content }}
+        </section>
     </main>
 
-</body>
-
+    <footer>
+        <section>
+            <h3>Your hosts:</h3>
+            <div class="hosts row">
+                {% for host in site.hosts %} 
+                <div class="host col-sm-3 col-xs-6">
+                    <div class="image" style="background-image: url('{{ host.image }}');"></div>
+                    <div class="name">{{host.name}}</div>
+                    <div class="twitter">
+                        <a href="https://twitter.com/{{host.twitter}}?ref_src=twsrc%5Etfw" data-show-count="false">@{{host.twitter}}</a>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </section>   
+        <section class="info">
+            created with <i class="fa fa-coffee"></i> and <i class="fa fa-heart"></i> in vienna.
+        </section>  
+    </footer>
+</body> 
 </html>

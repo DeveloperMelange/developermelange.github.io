@@ -1,0 +1,32 @@
+header {
+  border-top: 0.5rem solid $brown;
+  margin-bottom: 3rem;
+  .logo {
+    height: 256px;
+    background: url("/assets/images/logo.png") center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .intro {
+    margin: auto;
+    text-align: center;
+    line-height: 2rem;
+  }
+  .badges {
+    padding: 1rem;
+    text-align: center;
+    .twitter {
+      position: relative;
+      height: 20px;
+      box-sizing: border-box;
+      padding: 1px 8px 1px 6px;
+      background-color: #1b95e0;
+      color: white !important;
+      border-radius: 3px;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  }
+}

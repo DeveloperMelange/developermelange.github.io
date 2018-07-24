@@ -3,5 +3,9 @@
 #  only main files contain this front matter, not partials.
 ---
 
+@import "variables";
+@import "body";
+@import "header";
 @import "main";
-@import "head";
+@import "post";
+@import "footer";
