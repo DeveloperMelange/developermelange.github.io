@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Let's get this started with the SOLID principles."
-date:   2018-07-01 07:00:00 +0200
-intro:  "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
-image:  "http://developeronfire.com/assets/images/UncleBobMartin.jpg"
----
