@@ -1,31 +1,32 @@
 title: Developer Melange
 email: david@leitner.io
-description: >- 
+description: >-
   A monthly podcast which brings you regular discussions about software engineering topics. 
   All of them, in one way or another, related to building great software products.
 url: https://developermelange.github.io
 twitter_username: devmelange
-github_username:  developermelange
+github_username: developermelange
 
 permalink: /:title
 future: true
 
-hosts: 
-- name: Paul Rohorzka
-  twitter: paulroho
-  image: https://pbs.twimg.com/profile_images/2656498685/f4a44bec6e7e5c43ad39e5ae3d267d61_400x400.jpeg
-- name: David Leitner
-  twitter: duffleit
-  image: https://pbs.twimg.com/profile_images/877865740346564608/bpcHFa04_400x400.jpg
-- name: Christian Haas
-  twitter: dertseha
-  image: https://pbs.twimg.com/profile_images/1806813754/self_profile_2009_400x400.jpg
-- name: Peter Kofler
-  twitter: codecopkofler
-  image: https://pbs.twimg.com/profile_images/471926631783612416/MZCM1YtO_400x400.jpeg
+hosts:
+  - name: Paul Rohorzka
+    twitter: paulroho
+    image: https://pbs.twimg.com/profile_images/2656498685/f4a44bec6e7e5c43ad39e5ae3d267d61_400x400.jpeg
+  - name: David Leitner
+    twitter: duffleit
+    image: https://pbs.twimg.com/profile_images/877865740346564608/bpcHFa04_400x400.jpg
+  - name: Christian Haas
+    twitter: dertseha
+    image: https://pbs.twimg.com/profile_images/1806813754/self_profile_2009_400x400.jpg
+  - name: Peter Kofler
+    twitter: codecopkofler
+    image: https://pbs.twimg.com/profile_images/471926631783612416/MZCM1YtO_400x400.jpeg
 
-# Build settings
+  # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
