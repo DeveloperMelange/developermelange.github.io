@@ -4,7 +4,7 @@ layout: default
 
 <section>
 {% for post in site.posts %} 
-<div class="post-list row">
+<div class="post-item row">
     <div class="col-xs-12 col-sm-3"><div class="image" style="background-image: url('{{ post.image }}');"></div></div>
     <div class="content col-xs-12 col-sm-9 center-xs start-sm">
         <div class="metainfo">{{ post.date | date: "%B %e, %Y" }} · EPISODE {{ forloop.index }}</div>

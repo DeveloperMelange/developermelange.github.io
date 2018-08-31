@@ -1,4 +1,4 @@
-.post-list,
+.post-item,
 .post {
   display: flex;
   .image {
@@ -29,6 +29,10 @@
       line-height: 1.5rem;
     }
   }
+}
+
+.post-item {
+  margin-bottom: 3rem;
 }
 
 section.player {
