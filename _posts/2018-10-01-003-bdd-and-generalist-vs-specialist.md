@@ -1,0 +1,24 @@
+---
+layout: post
+number: 3,
+title: "Is BDD worth the overhead, and do we prefer to be generalists or specialists?"
+date: 2018-10-01 07:00:00 +0200
+intro: "In this episode, we were discussing the (i) additional cost of following BDD. We concluded that the core of BDD is the understanding of what needs to be done and as such, it can be compared to TDD or ATDD. Maybe there is no additional cost, rather a cost of not doing it. During the second part, we focused on the question of (ii) being a generalist or specials. What impact this decision has on career, teamwork and project success and whether there is a preference for us."
+image: "/assets/images/3_bdd.png"
+trackId: "507470400"
+links:
+  - title: Dan North - Introducing BDD
+    href: https://dannorth.net/introducing-bdd/
+  - title: Kent Beck - Extreme Programming Explained
+    href: http://a.co/6yuPpvg
+  - title: Global Day of Coderetreat 2018 - Vienna
+    href: https://www.eventbrite.de/e/global-day-of-coderetreat-2018-vienna-austria-17-november-2018-tickets-46931196472
+  - title: Pomodoro Technique
+    href: https://francescocirillo.com/pages/pomodoro-technique
+  - title: SpecFlow - Binding Business Requirements to .NET Code
+    href: https://specflow.org/
+  - title: “The compiler guy” - Kirk Pepperdine
+    href: https://twitter.com/javaperftuning?lang=de
+  - title: Peter “CodeCop” Kofler
+    href: http://blog.code-cop.org/
+---
