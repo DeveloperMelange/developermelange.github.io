@@ -17,8 +17,8 @@ links:
     href: https://francescocirillo.com/pages/pomodoro-technique
   - title: SpecFlow - Binding Business Requirements to .NET Code
     href: https://specflow.org/
-  - title: “The compiler guy” - Kirk Pepperdine
-    href: https://twitter.com/javaperftuning?lang=de
+  - title: “The (Java) Performance guy” - Kirk Pepperdine
+    href: https://twitter.com/javaperftuning
   - title: Peter “CodeCop” Kofler
-    href: http://blog.code-cop.org/
+    href: https://www.code-cop.org/
 ---
