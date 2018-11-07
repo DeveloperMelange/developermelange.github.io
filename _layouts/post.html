@@ -28,6 +28,14 @@ layout: default
     </ul>
 </section>
 
+{% if page.imageCopyright %} 
+<section class="image-copyrights">
+    <span>👏</span> 
+    <b>Thanks, to {{page.imageCopyright.author}} for the <a href="{{page.imageCopyright.photoLink}}">photo</a> of this episode!</b></div>
+    <span>(<a href="{{page.imageCopyright.licenseLink}}">License</a>)</span>
+</section>
+{% endif %}
+
 <section>
         <div id="disqus_thread"></div>
         <script>
