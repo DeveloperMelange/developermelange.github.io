@@ -18,7 +18,7 @@ links:
   - title: Michael Feathers - Understanding Understandability
     href: https://www.youtube.com/watch?v=oUswpgf5V9M
   - title: Sandro Mancuso - Interaction Driven Design
-    href: http://www.ustream.tv/recorded/61480606
+    href: https://vimeo.com/130256611
   - title: Robert C. Martin (Uncle Bob) - Screaming Architecture
     href: https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html
   - title: Is TDD dead?
