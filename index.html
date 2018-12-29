@@ -4,6 +4,7 @@ layout: default
 
 <section>
 {% for post in site.posts %} 
+{% if post.disabled != true %}
 <div class="post-item row">
     <div class="col-xs-12 col-sm-3"><div class="image" style="background-image: url('{{ post.image }}');"></div></div>
     <div class="content col-xs-12 col-sm-9 center-xs start-sm">
@@ -12,5 +13,6 @@ layout: default
         <div class="intro">{{post.intro}}</div>
     </div>
 </div>
+{% endif %}
 {% endfor %}
 </section>

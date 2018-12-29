@@ -8,7 +8,7 @@ twitter_username: devmelange
 github_username: developermelange
 
 permalink: /:title
-future: false
+future: true
 
 hosts:
   - name: Paul Rohorzka
