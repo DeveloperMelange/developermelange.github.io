@@ -1,7 +1,6 @@
 ---
 layout: post
 number: 6,
-disabled: false,
 title: "Improving Team Collaboration and making Technical Debt feasible"
 date: 2019-01-01 07:00:00 +0100
 intro: "This episode is all about talking: Together with our very first official guest, we attempt figuring out how to get developers talk to each other, and then get managers talk to developers about technical debt."
