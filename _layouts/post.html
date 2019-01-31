@@ -5,7 +5,7 @@ layout: default
     <div class="post row">
         <div class="content col-xs-12 center-xs">
             <div class="metainfo">{{ page.date | date: "%B %e, %Y" }} · EPISODE {{ page.number }}</div>
-            <h2><a href="{{ page.url }}">{{ page.number }}: {{page.title}}</a></h2>
+            <h2><a href="{{ page.url }}">{{ page.number | prepend: '000' | slice: -3, 3 }}: {{page.title}}</a></h2>
         </div>
     </div>
 </section>
