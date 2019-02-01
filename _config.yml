@@ -16,11 +16,7 @@ hosts:
     image: https://pbs.twimg.com/profile_images/1033027159412097026/oggPkZN1_400x400.jpg
   - name: David Leitner
     twitter: duffleit
-<<<<<<< HEAD
     image: https://pbs.twimg.com/profile_images/1088154918303744002/J35WFyuX_400x400.jpg
-=======
-    image: https://avatars2.githubusercontent.com/u/7366006?s=460&v=4
->>>>>>> origin/master
   - name: Christian Haas
     twitter: dertseha
     image: https://pbs.twimg.com/profile_images/1806813754/self_profile_2009_400x400.jpg
