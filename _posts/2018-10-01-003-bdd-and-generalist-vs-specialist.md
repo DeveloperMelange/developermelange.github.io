@@ -1,6 +1,6 @@
 ---
 layout: post
-number: 3,
+number: 3
 title: "Is BDD worth the overhead, and should I prefer being a specialist or a generalist?"
 date: 2018-10-01 07:00:00 +0200
 intro: "In this episode, we were discussing the (i) additional cost of following BDD. We concluded that the core of BDD is the understanding of what needs to be done and as such, it can be compared to TDD or ATDD. Maybe there is no additional cost, rather a cost of not doing it. During the second part, we focused on the question of (ii) being a generalist or specials. What impact this decision has on career, teamwork and project success and whether there is a preference for us."
