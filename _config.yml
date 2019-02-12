@@ -13,16 +13,12 @@ future: true
 hosts:
   - name: Paul Rohorzka
     twitter: paulroho
-    image: https://pbs.twimg.com/profile_images/1033027159412097026/oggPkZN1_400x400.jpg
   - name: David Leitner
     twitter: duffleit
-    image: https://pbs.twimg.com/profile_images/1088154918303744002/J35WFyuX_400x400.jpg
   - name: Christian Haas
     twitter: dertseha
-    image: https://pbs.twimg.com/profile_images/1806813754/self_profile_2009_400x400.jpg
   - name: Peter Kofler
     twitter: codecopkofler
-    image: https://pbs.twimg.com/profile_images/471926631783612416/MZCM1YtO_400x400.jpeg
 
   # Build settings
 markdown: kramdown
