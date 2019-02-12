@@ -9,7 +9,7 @@ imageCopyright:
   author: mortimer
   photoLink: "https://www.flickr.com/photos/mortimer/221051561/"
   licenseLink: "https://creativecommons.org/licenses/by-nc-sa/2.0/"
-trackId: "523091442"
+trackId: "004-Duplication--Duplication--and-dependencies---mixed-with-schools-of-development-e36lmq/a-aad88c"
 links:
   - title: Rob Pike - A little copying is better than a little
     href: https://www.youtube.com/watch?v=PAAkCSZUG1c&t=9m28s

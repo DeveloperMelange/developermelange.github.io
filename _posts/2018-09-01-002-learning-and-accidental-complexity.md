@@ -5,7 +5,7 @@ title: "Learning as a Software Engineer and Fred Brook's accidental and essentia
 date: 2018-09-01 07:00:00 +0200
 intro: "In this episode, we tackled two topics: (i) How we meet the requirements of constantly learning new technologies and what approaches we use to drive this efficiently. In addition, we try to find a common understanding, at which point in time something can be considered as known or learned. After this, we take hold of  (ii) the occurrence of accidental and essential complexity in software projects described by Fred Brooks. Why it's important to understand the difference, and what we can gain from this knowledge."
 image: "/assets/images/2_accidental_complexity.png"
-trackId: "493505292"
+trackId: "002-Learning-as-a-Software-Engineer-and-Fred-Brooks-accidental-and-essential-complexity-e36ll2/a-aad89f"
 links:
   - title: John Sonmez - After Completing 40 Online Training Courses for Pluralsight, What Have I Learned?
     href: https://simpleprogrammer.com/after-completing-40-online-training-courses-for-pluralsight-what-have-i-learned/

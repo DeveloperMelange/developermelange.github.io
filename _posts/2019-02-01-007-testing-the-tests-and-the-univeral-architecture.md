@@ -9,7 +9,7 @@ imageCopyright:
   author: "Nana B Agyei"
   photoLink: "https://www.flickr.com/photos/nanagyei/6977484315/"
   licenseLink: "https://creativecommons.org/licenses/by-sa/2.0/"
-trackId: "568142037"
+trackId: "007-Testing-the-tests-and-the-universal-hexagonal-vertical-ports-and-adapters-layered-architecture-e36loi/a-aad8br"
 links:
   - title: Twitter discussion from "Testing the tests"
     href: https://twitter.com/paulroho/status/1082859782975959044

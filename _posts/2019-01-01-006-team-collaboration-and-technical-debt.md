@@ -9,7 +9,7 @@ imageCopyright:
   author: "Magnus Johansson"
   photoLink: "https://www.flickr.com/photos/120374925@N06/15977037938/"
   licenseLink: "https://creativecommons.org/licenses/by-sa/2.0/"
-trackId: "551394483"
+trackId: "006-Improving-Team-Collaboration-and-making-Technical-Debt-feasible-e36lob/a-aad89"
 links:
   - title: Special guest Olga Repnikova
     href: https://www.linkedin.com/in/olga-repnikova-697150100/
