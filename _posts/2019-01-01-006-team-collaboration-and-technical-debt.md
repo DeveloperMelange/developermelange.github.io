@@ -5,6 +5,9 @@ title: "Improving Team Collaboration and making Technical Debt feasible"
 date: 2019-01-01 07:00:00 +0200
 intro: "This episode is all about talking: Together with our very first official guest, we attempt figuring out how to get developers talk to each other, and then get managers talk to developers about technical debt."
 image: "/assets/images/6_new_year.png"
+guest: 
+  name: Olga Repnikova
+  twitter: emc2olga
 imageCopyright:
   author: "Magnus Johansson"
   photoLink: "https://www.flickr.com/photos/120374925@N06/15977037938/"

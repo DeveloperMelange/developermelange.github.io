@@ -31,6 +31,24 @@
   }
 }
 
+.guest{
+  display: flex;
+  align-items: center;
+  margin: 1rem 0;      
+  .guest-image{
+    width: 48px;
+    height: 48px;
+    margin: 0;
+    margin-right: .5rem;
+    background-size: cover;
+    @include imageborder();
+  }
+  .guest-info{
+    text-align: left;
+    font-size: .8rem;
+  }
+}
+
 .post-item {
   margin-bottom: 3rem;
 }
@@ -42,6 +60,12 @@ section.player {
 section.intro {
   font-size: 0.8rem;
   line-height: 1.5rem;
+
+  .guest{
+    justify-content: center;
+    margin-top: 2rem;
+
+  }
 }
 
 section.links {
