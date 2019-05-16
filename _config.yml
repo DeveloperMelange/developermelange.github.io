@@ -7,7 +7,7 @@ url: https://developermelange.github.io
 twitter_username: devmelange
 github_username: developermelange
 
-permalink: /:title
+permalink: /:title/
 future: true
 
 hosts:
