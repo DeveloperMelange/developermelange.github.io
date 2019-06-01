@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 13
-title: "013 - Building a successful local community"
+title: "Building a successful local community"
 date: 2019-06-01 07:00:00 +0200
 intro: "Martin tells about his experience in creating two successful communities in Vienna. How to get going if you don’t know anything about it. Thanks Martin for giving us an insight into this!"
 image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/1439931/1439931-1559389059206-a1531322d0b93.jpg"
