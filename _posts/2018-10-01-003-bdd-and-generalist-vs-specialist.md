@@ -5,6 +5,10 @@ title: "Is BDD worth the overhead, and should I prefer being a specialist or a g
 date: 2018-10-01 07:00:00 +0200
 intro: "In this episode, we were discussing the (i) additional cost of following BDD. We concluded that the core of BDD is the understanding of what needs to be done and as such, it can be compared to TDD or ATDD. Maybe there is no additional cost, rather a cost of not doing it. During the second part, we focused on the question of (ii) being a generalist or specials. What impact this decision has on career, teamwork and project success and whether there is a preference for us."
 image: "/assets/images/3_bdd.png"
+imageCopyright:
+  author: "Ryan Adams"
+  photoLink: "http://homedust.com/"
+  licenseLink: "https://creativecommons.org/licenses/by/2.0/"
 trackId: "003-Is-BDD-worth-the-overhead--and-should-I-prefer-being-a-specialist-or-a-generalist-e36lmb/a-aad88b"
 links:
   - title: Dan North - Introducing BDD
@@ -19,6 +23,4 @@ links:
     href: https://specflow.org/
   - title: “The (Java) Performance guy” - Kirk Pepperdine
     href: https://twitter.com/javaperftuning
-  - title: Peter “CodeCop” Kofler
-    href: https://www.code-cop.org/
 ---
