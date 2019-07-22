@@ -4,7 +4,7 @@ number: 5
 title: "Code Quality and introducing TDD in a (legacy) project"
 date: 2018-12-01 07:00:00 +0100
 intro: "We started this episode discussing about readability of code. What actually is readability? It seems, that next to names, there are other important things to consider, like visual structure. In the second part we talked about how to get started with Test Driven Development (TDD) in a project were nobody else is doing it. We found a few suitable ways to get things started. Finally we concluded the episode with our personal history, how we each one of us got started with TDD."
-image: "/assets/images/5_start_tdd.png"
+image: "/assets/images/005_start_tdd.png"
 imageCopyright:
   author: fitapproach
   photoLink: "https://www.flickr.com/photos/fitapproach/6814589739/"

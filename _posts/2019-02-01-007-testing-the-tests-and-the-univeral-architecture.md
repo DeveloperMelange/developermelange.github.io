@@ -4,7 +4,7 @@ number: 7
 title: "Testing the tests and the universal-hexagonal-vertical-ports-and-adapters-layered architecture"
 date: 2019-02-01 07:00:00 +0200
 intro: "2019 gets even stronger with a lot to discuss. First we ask how much testing do our tests need. Is it a smell if we feel we should test our tests? Then we do a run-down on common architectures. What are the benefits and drawbacks? How do they relate to each other? And can someone survive never having experienced any of them in their true form."
-image: "/assets/images/7_onions.png"
+image: "/assets/images/007_onions.png"
 imageCopyright:
   author: "Nana B Agyei"
   photoLink: "https://www.flickr.com/photos/nanagyei/6977484315/"

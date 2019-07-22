@@ -4,7 +4,7 @@ number: 9
 title: 'Security by Design - Baking security into the heart of your codebase'
 date: 2019-04-01 07:00:00 +0200
 intro: 'Our guest Gottfried Szing introduces us into some ideas of security by design. A fruity cocktail of how to avoid  primitives obsessions and where to put the validation in your architecture - mixed with a little bit of contract first development. Finalized with a discussion about rusting software.'
-image: '/assets/images/9_security.png'
+image: '/assets/images/009_security.png'
 guest:
   name: Gottfried Szing
   twitter: GottfriedSzing
