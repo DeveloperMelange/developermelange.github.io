@@ -14,6 +14,8 @@ imageCopyright:
   licenseLink: "https://pixabay.com/service/license/"
 trackId: "012---The-role-of-a-developer-advocate-and-how-to-be-productive-as-a-developer-e41v9p"
 links:
+  - title: Sebastian Daschner
+    href: https://www.sebastian-daschner.com/
   - title: Eisenhower Matrix
     href: https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method
   - title: Sebastian Daschner - How to be productive (as a developer)
