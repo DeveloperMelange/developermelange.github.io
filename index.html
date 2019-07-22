@@ -1,9 +1,9 @@
---- 
-layout: default 
+---
+layout: default
 ---
 
 <section>
-{% for post in site.posts %} 
+{% for post in site.posts %}
 {% if post.disabled != true %}
 <div class="post-item row">
     <div class="col-xs-12 col-sm-3"><div class="image" style="background-image: url('{{ post.image }}');"></div></div>
@@ -14,8 +14,8 @@ layout: default
         <div class="guest center-xs start-sm">
             <div class="guest-image image" style="background-image: url('http://avatars.io/twitter/{{post.guest.twitter}}/medium');"></div>
             <div class="guest-info">
-                <div>In this episode we discussed</div>
-                <div style="font-weight: bold">with <a href="https://twitter.com/{{post.guest.twitter}}">{{post.guest.name}}</a>.</div>
+                <div>In this episode we discussed with</div>
+                <div style="font-weight: bold"><a href="https://twitter.com/{{post.guest.twitter}}">{{post.guest.name}}</a>.</div>
             </div>
         </div>
         {% endif %}

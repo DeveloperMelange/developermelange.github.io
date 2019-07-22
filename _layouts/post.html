@@ -11,8 +11,8 @@ layout: default
 </section>
 
 <section class="player">
-    <iframe 
-        src="https://anchor.fm/developermelange/embed/episodes/{{ page.trackId }}" 
+    <iframe
+        src="https://anchor.fm/developermelange/embed/episodes/{{ page.trackId }}"
         height="160px" width="100%" frameborder="0" scrolling="no"></iframe>
 </section>
 
@@ -23,8 +23,8 @@ layout: default
     <div class="guest">
         <div class="guest-image image" style="background-image: url('http://avatars.io/twitter/{{page.guest.twitter}}/medium');"></div>
         <div class="guest-info">
-            <div>In this episode we discussed</div>
-            <div style="font-weight: bold">with <a href="https://twitter.com/{{page.guest.twitter}}">{{page.guest.name}}</a>.</div>
+            <div>In this episode we discussed with</div>
+            <div style="font-weight: bold"><a href="https://twitter.com/{{page.guest.twitter}}">{{page.guest.name}}</a>.</div>
         </div>
     </div>
     {% endif %}
@@ -33,15 +33,15 @@ layout: default
 <section class="links">
     <h3>Resources:</h3>
     <ul>
-    {% for link in page.links %} 
+    {% for link in page.links %}
         <li><a href="{{ link.href }}" target="_blank">{{ link.title }}</a></li>
     {% endfor %}
     </ul>
 </section>
 
-{% if page.imageCopyright %} 
+{% if page.imageCopyright %}
 <section class="image-copyrights">
-    <span>👏</span> 
+    <span>👏</span>
     <b>Thanks, to {{page.imageCopyright.author}} for the <a href="{{page.imageCopyright.photoLink}}">photo</a> of this episode!</b></div>
     <span>(<a href="{{page.imageCopyright.licenseLink}}">License</a>)</span>
 </section>
@@ -50,12 +50,12 @@ layout: default
 <section>
         <div id="disqus_thread"></div>
         <script>
-        
+
         var disqus_config = function () {
             this.page.url = "{{ site.url }}{{ page.disqus-identifier | default: page.url }}";
             this.page.identifier = "{{ page.disqus-identifier | default: page.id }}";
         };
-        
+
         (function() {
         var d = document, s = d.createElement('script');
         s.src = 'https://developermelange.disqus.com/embed.js';
