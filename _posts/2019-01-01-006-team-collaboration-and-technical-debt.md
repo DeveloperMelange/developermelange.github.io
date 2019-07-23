@@ -4,8 +4,8 @@ number: 6
 title: "Improving Team Collaboration and making Technical Debt feasible"
 date: 2019-01-01 07:00:00 +0200
 intro: "This episode is all about talking: Together with our very first official guest, we attempt figuring out how to get developers talk to each other, and then get managers talk to developers about technical debt."
-image: "/assets/images/6_new_year.png"
-guest: 
+image: "/assets/images/006_new_year.png"
+guest:
   name: Olga Repnikova
   twitter: emc2olga
 imageCopyright:
@@ -26,6 +26,6 @@ links:
     href: https://twitter.com/arlobelshee/status/994949473871777793
   - title: "The Black Swan: The Impact of the Highly Improbable (book)"
     href: https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable
-  - title: 33 Days of Education (in 2016)
+  - title: "Code Cop: 33 Days of Education (in 2016)"
     href: https://blog.code-cop.org/2017/04/33-days-of-education.html
 ---

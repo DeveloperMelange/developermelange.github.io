@@ -4,10 +4,7 @@ number: 7
 title: "Testing the tests and the universal-hexagonal-vertical-ports-and-adapters-layered architecture"
 date: 2019-02-01 07:00:00 +0200
 intro: "2019 gets even stronger with a lot to discuss. First we ask how much testing do our tests need. Is it a smell if we feel we should test our tests? Then we do a run-down on common architectures. What are the benefits and drawbacks? How do they relate to each other? And can someone survive never having experienced any of them in their true form."
-image: "/assets/images/7_onions.png"
-guest: 
-  name: David Leitner
-  twitter: duffleit
+image: "/assets/images/007_onions.png"
 imageCopyright:
   author: "Nana B Agyei"
   photoLink: "https://www.flickr.com/photos/nanagyei/6977484315/"
@@ -18,7 +15,7 @@ links:
     href: https://twitter.com/paulroho/status/1082859782975959044
   - title: "Paul Rohorzka: Seeding a Tree in a Gherkin"
     href: https://www.slideshare.net/paulroho/seeding-a-tree-in-a-gherkin
-  - title: Things I Don’t Know as of 2018
+  - title: Things I Don't Know as of 2018
     href: https://overreacted.io/things-i-dont-know-as-of-2018/
   - title: The imposter's handbook
     href: https://bigmachine.io/catalog/the-imposters-handbook/
