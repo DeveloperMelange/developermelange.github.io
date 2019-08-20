@@ -22,6 +22,10 @@ links:
     href: https://www.youtube.com/watch?v=8bEsNT7jdC4
   - title: "Building Evolutionary Architectures: Support Constant Change (Book)"
     href: https://www.amazon.de/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360
+  - title: Patrick Kua - An Appropriate Use of Metrics (via Martin Fowler)
+    href: https://martinfowler.com/articles/useOfMetrics.html
+  - title: James Birnie - Architects Suck! Architecture Rocks!
+    href: https://www.youtube.com/watch?v=Ah0vDgnG7o4
   - title: "Sam Newman - Building Microservices"
     href: https://www.amazon.de/Building-Microservices-Sam-Newman/dp/1491950358/ref=pd_sim_14_2/257-6115240-0571467
   - title: "Adam Tornhill - A Crystal Ball to Prioritize Technical Debt"
