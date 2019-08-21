@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 19
-title: "Growing and teaching Techleads"
+title: "Growing and teaching tech leads"
 date: 2019-09-01 07:00:00 +0200
 intro: "We talked with Patrick about his understanding of what makes a good lead. He gave us a deep inside into the skills you probably need to learn, to bring yourself into this position and a hand of very useful tips to start this journey. All this, mixed with couple of very interesting insights about the inner-workings of N26."
 guest:
