@@ -8,7 +8,7 @@ guest:
   name: "Patrick Kua"
   twitter: "patkua"
 image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/1439931/1439931-1566237577975-ed0481be1141d.jpg"
-trackId: '--TRACKID'
+trackId: 'Growing-and-teaching-tech-leads-e5144v'
 imageCopyright:
   author: 'rawpixels.com'
   photoLink: 'https://images.pexels.com/photos/1881333/pexels-photo-1881333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'
