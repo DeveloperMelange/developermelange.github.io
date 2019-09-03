@@ -3,7 +3,7 @@ layout: post
 number: 21
 title: 'Programmable Money'
 date: 2019-10-01 07:00:00 +0200
-intro: "To figure out why blockchain programming is just programming, we talk with Gerald Bauer about his views on no-coiners and Bitcoin Maximalists, differences between Bitcoin and Ethereum, and finally how to solve the halting problem."
+intro: "To figure out why blockchain programming is just programming, we talk with Gerald Bauer about his views on No-Coiners and Bitcoin Maximalists, differences between Bitcoin and Ethereum, and finally how to solve the halting problem."
 guest:
   name: "Gerald Bauer"
   twitter: "geraldbauer"
