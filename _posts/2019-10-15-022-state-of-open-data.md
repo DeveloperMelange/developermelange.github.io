@@ -22,9 +22,9 @@ links:
     href: https://tools.ietf.org/html/rfc4180
   - title: YAML ("YAML Ain't Markup Language")
     href: https://en.wikipedia.org/wiki/YAML
- - title: CSV Specs
+  - title: CSV Specs
     href: https://github.com/csvspecs
- - title: CSV ❤ JSON Format
+  - title: CSV ❤ JSON Format
     href: https://github.com/csvspecs/csv-json
   - title: DataHub - Frictionless Data
     href: https://datahub.io/
