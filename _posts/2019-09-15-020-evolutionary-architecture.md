@@ -8,7 +8,7 @@ guest:
   name: "Patrick Kua"
   twitter: patkua
 image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/1439931/1439931-1566237905814-652e643a3c7a5.jpg"
-trackId: '--TRACKID'
+trackId: '020---Evolutionary-Architecture-e5146q'
 imageCopyright:
   author: 'Zelda Richardson'
   photoLink: 'https://www.flickr.com/photos/8857332@N03/1253261246'
