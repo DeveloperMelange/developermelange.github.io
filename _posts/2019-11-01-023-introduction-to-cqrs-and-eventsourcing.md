@@ -9,7 +9,7 @@ guest:
   name: "Fabian Schmied"
   twitter: "fabian_schmied"
 image: "/assets/images/023_queue.jpg"
-trackId: 'TODO'
+trackId: '023---Introduction-to-CQRS-and-Eventsourcing-e8h1jj'
 imageCopyright:
   author: 'Ross G. Strachan Photography'
   photoLink: 'https://flic.kr/p/fnupcL'
