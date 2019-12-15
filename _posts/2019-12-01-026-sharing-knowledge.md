@@ -11,7 +11,7 @@ guest2:
   name: "Manuel Matuzović"
   twitter: "mmatuzo"
 image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/1439931/1439931-1575236934682-7739bbc220d99.jpg"
-trackId: '---todo'
+trackId: '026---Sharing-is-learning---Learning-is-sharing-e99h3j'
 imageCopyright:
   author: 'Pixabay'
   photoLink: 'https://www.pexels.com/de-de/foto/auditorium-ausbildung-banke-bildung-207691/'
