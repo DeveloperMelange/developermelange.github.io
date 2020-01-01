@@ -11,8 +11,6 @@ permalink: /:title/
 future: false
 
 hosts:
-  - name: Paul Rohorzka
-    twitter: paulroho
   - name: David Leitner
     twitter: duffleit
   - name: Christian Haas
