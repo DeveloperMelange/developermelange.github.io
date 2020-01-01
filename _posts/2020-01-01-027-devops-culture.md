@@ -8,7 +8,7 @@ guest:
   name: "Sandra Parsick"
   twitter: "SandraParsick"
 image: "/assets/images/027_Chris_Lejeune_-_One-Man-Band.jpg"
-trackId: '027---TODO'
+trackId: 027---DevOps-culture-and-team-structure-e9udom
 imageCopyright:
   author: 'Maus-78'
   photoLink: 'https://de.wikipedia.org/wiki/Ein-Mann-Orchester#/media/Datei:Chris_Lejeune_-_One-Man-Band.jpg'
