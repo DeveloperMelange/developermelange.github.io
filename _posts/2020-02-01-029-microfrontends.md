@@ -8,7 +8,7 @@ guest:
   name: "David Leitner"
   twitter: "duffleit"
 image: "/assets/images/029_blocks.jpg"
-trackId: "TODO"
+trackId: "029---Micro-Frontends-eaitgv"
 imageCopyright:
   author: "The Strangely Good"
   photoLink: "https://www.behance.net/gallery/26625607/Stacks-Stones"
@@ -16,4 +16,16 @@ imageCopyright:
 links:
   - title: Go Meetup (Vienna)
     href: https://www.meetup.com/viennago/
+  - title: David on Micro Forntends
+    href: https://www.youtube.com/watch?v=BdogUPEC27w&t=13s
+  - title: Article Series on Micro-Frontend Architecture Patterns 
+    href: https://www.squer.at/blog/micro-frontend-patterns
+  - title: Cam Jackson - Micro Forntends (via Martin Fowler)
+    href: https://martinfowler.com/articles/micro-frontends.html
+  - title: Project Mosaic by Zalando: 
+    href: https://www.mosaic9.org/
+  - title: Micro Frontends at Zalando (GOTO 2016)
+    href: https://www.youtube.com/watch?v=vCzTK4XPfX8
+  - title: Micro Forntends: Thoughtworks Technology Radar
+    href: https://www.thoughtworks.com/radar/techniques/micro-frontends
 ---
