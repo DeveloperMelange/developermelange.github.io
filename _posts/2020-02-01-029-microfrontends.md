@@ -7,7 +7,7 @@ intro: "This time our very own David gives us an introduction to one of his favo
 guest:
   name: "David Leitner"
   twitter: "duffleit"
-image: "/assets/images/029_blocks.jpg"
+image: "/assets/images/029-blocks.jpg"
 trackId: "029---Micro-Frontends-eaitgv"
 imageCopyright:
   author: "The Strangely Good"
