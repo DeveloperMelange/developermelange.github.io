@@ -10,7 +10,7 @@ guest:
 guest2:
   name: "Manuel Matuzović"
   twitter: "mmatuzo"
-image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/1439931/1439931-1575236934682-7739bbc220d99.jpg"
+image: "/assets/images/026_lecture-hall.jpg"
 trackId: '026---Sharing-is-learning---Learning-is-sharing-e99h3j'
 imageCopyright:
   author: 'Pixabay'
@@ -27,7 +27,7 @@ links:
     href: https://frontendchecklist.io/
   - title: CreativeMornings Vienna
     href: https://creativemornings.com/cities/vie
-  - title: Webclerks Vienna 
+  - title: Webclerks Vienna
     href: https://www.meetup.com/webclerks/
   - title: DEVONE Linz
     href: https://devone.at/

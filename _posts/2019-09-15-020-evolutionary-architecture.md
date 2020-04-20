@@ -7,7 +7,7 @@ date: 2019-09-15 07:00:00 +0200
 guest:
   name: "Patrick Kua"
   twitter: patkua
-image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/1439931/1439931-1566237905814-652e643a3c7a5.jpg"
+image: "/assets/images/020_tree-trunk.jpg"
 trackId: '020---Evolutionary-Architecture-e5146q'
 imageCopyright:
   author: 'Zelda Richardson'

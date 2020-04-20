@@ -7,7 +7,7 @@ intro: "We talked with Patrick about his understanding of what makes a good lead
 guest:
   name: "Patrick Kua"
   twitter: "patkua"
-image: "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/1439931/1439931-1566237577975-ed0481be1141d.jpg"
+image: "/assets/images/019_discussion.jpg"
 trackId: '019---Growing-and-teaching-tech-leads-e5144v'
 imageCopyright:
   author: 'rawpixels.com'
