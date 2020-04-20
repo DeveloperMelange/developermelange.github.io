@@ -12,7 +12,7 @@ layout: default
         <h2><a href="{{ post.url }}">{{ post.number | prepend: '000' | slice: -3, 3 }}: {{post.title}}</a></h2>
         {% if post.guest %}
         <div class="guest center-xs start-sm">
-            <div class="guest-image image" style="background-image: url('http://avatars.io/twitter/{{post.guest.twitter}}/medium');"></div>
+            <div class="guest-image image" style="background-image: url('https://avatars.io/twitter/{{post.guest.twitter}}/medium');"></div>
             <div class="guest-info">
                 <div>In this episode we discussed with</div>
                 <div style="font-weight: bold"><a href="https://twitter.com/{{post.guest.twitter}}">{{post.guest.name}}</a>.</div>
@@ -21,7 +21,7 @@ layout: default
         {% endif %}
         {% if post.guest2 %}
         <div class="guest center-xs start-sm">
-            <div class="guest-image image" style="background-image: url('http://avatars.io/twitter/{{post.guest2.twitter}}/medium');"></div>
+            <div class="guest-image image" style="background-image: url('https://avatars.io/twitter/{{post.guest2.twitter}}/medium');"></div>
             <div class="guest-info">
                 <div>In this episode we discussed with</div>
                 <div style="font-weight: bold"><a href="https://twitter.com/{{post.guest2.twitter}}">{{post.guest2.name}}</a>.</div>
