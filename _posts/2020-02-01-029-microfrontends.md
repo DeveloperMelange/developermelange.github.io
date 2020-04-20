@@ -7,7 +7,7 @@ intro: "This time our very own David gives us an introduction to one of his favo
 guest:
   name: "David Leitner"
   twitter: "duffleit"
-image: "/assets/images/029-blocks.jpg"
+image: "/assets/images/029_blocks.jpg"
 trackId: "029---Micro-Frontends-eaitgv"
 imageCopyright:
   author: "The Strangely Good"
@@ -16,19 +16,19 @@ imageCopyright:
 links:
   - title: "Go Meetup (Vienna)"
     href: https://www.meetup.com/viennago/
-  - title: "David on Micro Forntends"
+  - title: "David on Micro Frontends"
     href: https://www.youtube.com/watch?v=BdogUPEC27w&t=13s
   - title: "SQUER - the company David is working for"
     href: https://squer.at
   - title: "Article Series on Micro-Frontend Architecture Patterns"
     href: https://www.squer.at/blog/micro-frontend-patterns
-  - title: "Cam Jackson - Micro Forntends (via Martin Fowler)"
+  - title: "Cam Jackson - Micro Frontends (via Martin Fowler)"
     href: https://martinfowler.com/articles/micro-frontends.html
   - title: "Project Mosaic by Zalando"
     href: https://www.mosaic9.org/
   - title: "Micro Frontends at Zalando (GOTO 2016)"
     href: https://www.youtube.com/watch?v=vCzTK4XPfX8
-  - title: "Micro Forntends: Thoughtworks Technology Radar"
+  - title: "Micro Frontends: Thoughtworks Technology Radar"
     href: https://www.thoughtworks.com/radar/techniques/micro-frontends
   - title: "Agent Conf - 2 days Javascript - 2 days skiing"
     href: https://agent.sh/
