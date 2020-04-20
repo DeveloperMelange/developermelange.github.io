@@ -4,7 +4,7 @@ number: 12
 title: "The role of a developer advocate and how to be productive as a developer"
 date: 2019-05-15 07:00:00 +0200
 intro: "In the second episode with Sebastian Daschner we talked about his work as developer advocate - and what does this actually mean? After getting the head around this we focus on tools and techniques that make you more productive as a developer. As usual paired with jokes an viennese coffee shop flair, as usual."
-image: "/assets/images/012_productivity.jpeg"
+image: "/assets/images/012_productivity.jpg"
 guest:
   name: Sebastian Daschner
   twitter: DaschnerS
