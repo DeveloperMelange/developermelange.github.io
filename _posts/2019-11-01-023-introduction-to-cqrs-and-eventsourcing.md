@@ -1,9 +1,9 @@
 ---
 layout: post
 number: 23
-title: 'Introduction to CQRS and Eventsourcing'
+title: 'Introduction to CQRS and Event Sourcing'
 date: 2019-11-01 07:00:00 +0200
-intro: "Fabian Schmied helps us understand CQRS and Eventsourcing by giving us a crash course on its motivation and context.
+intro: "Fabian Schmied helps us understand CQRS and Event Sourcing by giving us a crash course on its motivation and context.
 Listen to learn about the inner workings of implementing such a system with some examples from the product he is working on."
 guest:
   name: "Fabian Schmied"
