@@ -7,7 +7,7 @@ intro: "We talk about guides and rules for programmers in the scope of their cod
 guest:
   name: "Matthias Noback"
   twitter: "matthiasnoback"
-image: "/assets/images/032_style.png"
+image: "/assets/images/032_style.jpg"
 trackId: "032---Design--and-Style-Guides-edfov4"
 imageCopyright:
   author: "Nino"

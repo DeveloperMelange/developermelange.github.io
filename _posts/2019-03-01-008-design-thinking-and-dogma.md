@@ -4,7 +4,7 @@ number: 8
 title: "Introducing Design Thinking and failing to agree on the need of Dogma"
 date: 2019-03-01 07:00:00 +0200
 intro: "Our special guest Claudia Oster explains the ideas of design thinking and the similarities with human centred design. It is interesting how the original design methodologies expanded to the business world. Peter brings us out of our comfort zone with his need for dogma. Listen to find out if strict rules are reasonable!"
-image: "/assets/images/008_dogma.png"
+image: "/assets/images/008_dogma.jpg"
 guest:
   name: Claudia Oster
   twitter: usabilitytalks
