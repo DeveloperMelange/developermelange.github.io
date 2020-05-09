@@ -1,15 +1,15 @@
 ---
 layout: post
 number: 17
-title: 'Unit vs integration tests - why should we care?'
+title: "Unit vs integration tests - why should we care?"
 date: 2019-08-01 07:00:00 +0200
 intro: "Paul asks at which point the question about differentiating between automated tests is irrelevant. As part of answering this, we discuss test automation pyramids and testing quadrants."
 image: "/assets/images/017_pyramid.jpg"
-trackId: '017---Unit-vs-integration-tests---why-should-we-care-e4qj8c'
+trackId: "017---Unit-vs-integration-tests---why-should-we-care-e4qj8c"
 imageCopyright:
-  author: 'Anna Hesser'
-  photoLink: 'https://www.flickr.com/photos/annahesser/6335089480/'
-  licenseLink: 'https://creativecommons.org/licenses/by-nc-sa/2.0/'
+  author: "Anna Hesser"
+  photoLink: "https://www.flickr.com/photos/annahesser/6335089480/"
+  licenseLink: "https://creativecommons.org/licenses/by-nc-sa/2.0/"
 links:
   - title: Test Automation Pyramid
     href: https://martinfowler.com/articles/practical-test-pyramid.html

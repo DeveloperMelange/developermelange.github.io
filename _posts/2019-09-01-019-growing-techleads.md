@@ -8,11 +8,11 @@ guest:
   name: "Patrick Kua"
   twitter: "patkua"
 image: "/assets/images/019_discussion.jpg"
-trackId: '019---Growing-and-teaching-tech-leads-e5144v'
+trackId: "019---Growing-and-teaching-tech-leads-e5144v"
 imageCopyright:
-  author: 'rawpixels.com'
-  photoLink: 'https://images.pexels.com/photos/1881333/pexels-photo-1881333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'
-  licenseLink: 'https://www.pexels.com/de-de/fotolizenz/'
+  author: "rawpixels.com"
+  photoLink: "https://images.pexels.com/photos/1881333/pexels-photo-1881333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  licenseLink: "https://www.pexels.com/de-de/fotolizenz/"
 links:
   - title: Patrick Kua
     href: https://www.thekua.com/atwork

@@ -1,18 +1,18 @@
 ---
 layout: post
 number: 22
-title: 'The state of open data - or where to find good beer'
+title: "The state of open data - or where to find good beer"
 date: 2019-10-15 07:00:00 +0200
 intro: "We follow Gerald Bauer for a roller coaster ride of data formats, usages in open data, and how and where to find good beer - all for an open society."
 guest:
   name: "Gerald Bauer"
   twitter: "geraldbauer"
 image: "/assets/images/022_pngtree-csv-file-document-icon.jpg"
-trackId: '022---The-state-of-open-data---or-where-to-find-good-beer-e7mp44'
+trackId: "022---The-state-of-open-data---or-where-to-find-good-beer-e7mp44"
 imageCopyright:
-  author: 'IYIKON'
-  photoLink: 'https://de.pngtree.com/freepng/csv-file-document-icon_4187767.html'
-  licenseLink: 'https://creativecommons.org/licenses/by/2.0/'
+  author: "IYIKON"
+  photoLink: "https://de.pngtree.com/freepng/csv-file-document-icon_4187767.html"
+  licenseLink: "https://creativecommons.org/licenses/by/2.0/"
 links:
   - title: Gerald Bauer
     href: https://github.com/geraldb

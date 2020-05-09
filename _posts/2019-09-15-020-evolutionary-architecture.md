@@ -8,11 +8,11 @@ guest:
   name: "Patrick Kua"
   twitter: patkua
 image: "/assets/images/020_tree-trunk.jpg"
-trackId: '020---Evolutionary-Architecture-e5146q'
+trackId: "020---Evolutionary-Architecture-e5146q"
 imageCopyright:
-  author: 'Zelda Richardson'
-  photoLink: 'https://www.flickr.com/photos/8857332@N03/1253261246'
-  licenseLink: 'https://www.flickr.com/photos/foot-slogger/'
+  author: "Zelda Richardson"
+  photoLink: "https://www.flickr.com/photos/8857332@N03/1253261246"
+  licenseLink: "https://www.flickr.com/photos/foot-slogger/"
 links:
   - title: "Patrick Kua"
     href: https://www.thekua.com/atwork

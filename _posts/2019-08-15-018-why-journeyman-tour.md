@@ -1,15 +1,15 @@
 ---
 layout: post
 number: 18
-title: 'Who should do a journeyman tour?'
+title: "Who should do a journeyman tour?"
 date: 2019-08-15 07:00:00 +0200
 intro: "We ask Peter about his experiences from his pair programming tour several years ago. Curious about the learning, we also discuss for whom such a tour might be worth doing and getting started in a corporate environment."
 image: "/assets/images/018_journeyman.jpg"
-trackId: '018---Who-should-do-a-journeyman-tour-e4vgps'
+trackId: "018---Who-should-do-a-journeyman-tour-e4vgps"
 imageCopyright:
-  author: 'sharpals'
-  photoLink: 'https://www.flickr.com/photos/sharpals/37349587364/'
-  licenseLink: 'https://creativecommons.org/licenses/by-nc-sa/2.0/'
+  author: "sharpals"
+  photoLink: "https://www.flickr.com/photos/sharpals/37349587364/"
+  licenseLink: "https://creativecommons.org/licenses/by-nc-sa/2.0/"
 links:
   - title: Code Cop Pair Programming Tour
     href: https://blog.code-cop.org/p/journeyman-tour.html

@@ -1,18 +1,18 @@
 ---
 layout: post
 number: 21
-title: 'Programmable Money'
+title: "Programmable Money"
 date: 2019-10-01 07:00:00 +0200
 intro: "To figure out why blockchain programming is just programming, we talk with Gerald Bauer about his views on No-Coiners and Bitcoin Maximalists, differences between Bitcoin and Ethereum, and finally how to solve the halting problem."
 guest:
   name: "Gerald Bauer"
   twitter: "geraldbauer"
 image: "/assets/images/021_pollution.jpg"
-trackId: '021---Programmable-Money-e5nd0h'
+trackId: "021---Programmable-Money-e5nd0h"
 imageCopyright:
-  author: 'Gilbert Rodriguez'
-  photoLink: 'https://www.flickr.com/photos/jarfilms/2301611128/'
-  licenseLink: 'https://creativecommons.org/licenses/by-nc-nd/2.0/'
+  author: "Gilbert Rodriguez"
+  photoLink: "https://www.flickr.com/photos/jarfilms/2301611128/"
+  licenseLink: "https://creativecommons.org/licenses/by-nc-nd/2.0/"
 links:
   - title: Gerald Bauer
     href: https://github.com/geraldb
