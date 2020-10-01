@@ -7,7 +7,7 @@ intro: "If you can’t reach your audience with classic marketing, Philipp Krenn
 guest:
   name: "Philipp Krenn"
   twitter: "xeraa"
-image: "/assets/images/037_seeding_communities.png"
+image: "/assets/images/037_seeding_communities.jpg"
 imageCopyright:
   author: "julie"
   photoLink: "https://www.flickr.com/photos/roosterfarm/595025702"
