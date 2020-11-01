@@ -1,6 +1,6 @@
 ---
 layout: post
-number: 37
+number: 38
 title: "Focus on Agile or Development practitces?"
 date: 2020-11-01 07:00:00 +0100
 intro: "We discuss with David whether it is important to train on Agile development or more on development practices."
