@@ -1,7 +1,7 @@
 ---
 layout: post
 number: 38
-title: "Focus on Agile or Development practitces?"
+title: "Focus on Agile or Development practices?"
 date: 2020-11-01 07:00:00 +0100
 intro: "We discuss with David whether it is important to train on Agile development or more on development practices."
 guest:
@@ -12,7 +12,7 @@ imageCopyright:
   author: "Dusty J"
   photoLink: "https://www.flickr.com/photos/55608722@N06/8556629632"
   licenseLink: "https://creativecommons.org/licenses/by/2.0/"
-trackId: "038---Focus-on-Agile-or-Development-practitces-els2lp"
+trackId: "038---Focus-on-Agile-or-Development-practices-els2lp"
 links:
   - title: "David Tanzer (Homepage)"
     href: https://www.davidtanzer.net/
