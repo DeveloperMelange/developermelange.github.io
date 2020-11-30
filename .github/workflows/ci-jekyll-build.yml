@@ -1,4 +1,4 @@
-name: Jekyll CI Build 
+name: Jekyll CI Build
 
 on: [push, pull_request]
 
@@ -19,4 +19,4 @@ jobs:
           gem install bundler
           bundle install
       - name: Build it
-        run: bundle exec jekyll serve
+        run: bundle exec jekyll build -d ./test
