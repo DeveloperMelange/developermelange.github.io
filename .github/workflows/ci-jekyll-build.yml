@@ -13,10 +13,12 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.4
+          ruby-version: 2.5
       - name: Install dependencies
         run: |
           gem install bundler
           bundle install
       - name: Build it
-        run: bundle exec jekyll build -d ./test
+        run: |
+          bundle exec jekyll doctor
+          bundle exec jekyll build
