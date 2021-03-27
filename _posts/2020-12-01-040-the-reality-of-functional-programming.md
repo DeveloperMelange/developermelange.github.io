@@ -22,16 +22,16 @@ links:
     href: https://lispcast.com/
   - title: "Haskell Programming from first principles (book)"
     href: https://haskellbook.com/
-  - title "Domain Modeling Made Functional (book)"
+  - title: "Domain Modeling Made Functional (book)"
     href: https://pragprog.com/titles/swdddf/domain-modeling-made-functional/
-  - title "Coderetreat in April (online)"
+  - title: "Coderetreat in April (online)"
     href: https://www.softwerkskammer.org/activities/Coderetreat20210415
-  - title "New Orleans Functional Programming Club"
+  - title: "New Orleans Functional Programming Club"
     href: https://nofun.club/
-  - title "Tuesday Hack Night"
+  - title: "Tuesday Hack Night"
     href: http://nolahacknight.com/
-  - title "FrontEndParty"
+  - title: "FrontEndParty"
     href: http://www.frontendparty.com/
-  - title "GDG New Orleans"
+  - title: "GDG New Orleans"
     href: https://www.gdgneworleans.com/
 ---
