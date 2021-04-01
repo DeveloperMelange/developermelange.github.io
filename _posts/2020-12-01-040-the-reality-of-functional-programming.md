@@ -12,7 +12,7 @@ imageCopyright:
   author: "endolith"
   photoLink: "https://www.flickr.com/photos/56868697@N00/438268407"
   licenseLink: "https://creativecommons.org/licenses/by-sa/2.0/"
-trackId: "040---TBD"
+trackId: "040---The-reality-of-functional-programming-eu1ad0"
 links:
   - title: "Grokking Simplicity (book)"
     href: https://www.manning.com/books/grokking-simplicity
